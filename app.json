@@ -1,7 +1,7 @@
 {
   "name": "WarUserBot",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/5cadf9784f067a75dc51c.jpg",
+  "logo": "https://telegra.ph/file/649f231e1228f9518bea1.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/xabhish3k/waruserbot/",
+  "repository": "https://github.com/Wizardtexh/waruserbot/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -26,11 +26,13 @@
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
     },
-    "APP_ID": {
+    "APP_ID": {22152362
       "description": "Get this value from my.telegram.org",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": {2df0bf931cc4a8516b43e61263e701b7
+
+
       "description": "Get this value from my.telegram.org",
       "value": ""
     },
@@ -38,16 +40,17 @@
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
-    "HEROKU_API_KEY": {
+    "HEROKU_API_KEY": {HRKU-61b7836d-7c1b-4dd7-919f-b911532a4e04
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
       "value": ""
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {aichat7
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
       "value": ""
     },
-    "BOT_TOKEN": {
-      "description": "Make a bot from @BotFather and paste the bot token here.",
+    "BOT_TOKEN": {7052155356:AAG4tHMLUIm2jqmNn0UkfMrt-g2rcIVH-2Q
+      "description": "
+      ",
       "value": ""
     }
   },
