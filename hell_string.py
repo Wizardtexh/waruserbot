@@ -36,8 +36,8 @@ def main():
 
 def generate_pyro_session():
     print("Pyrogram Session for Music Bot!")
-    APP_ID = int(input("\nEnter APP ID here: "))
-    API_HASH = input("\nEnter API HASH here: ")
+    APP_ID = int(input("22152362"))
+    API_HASH = input("2df0bf931cc4a8516b43e61263e701b7")
     with PClient(':memory:', api_id=APP_ID, api_hash=API_HASH) as hellbot:
         print("\nYour WaruserBot Session Is sent in your Telegram Saved Messages.")
         hellbot.send_message(
